@@ -1,4 +1,4 @@
-module github.com/alcaamiriy/go-common
+module github.com/alcaamiriy/common-pkgs
 
 go 1.21.0
 

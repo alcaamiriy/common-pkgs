@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/alcaamiriy/go-common/utils"
+	"github.com/alcaamiriy/common-pkgs/utils"
 )
 
 func main() {
